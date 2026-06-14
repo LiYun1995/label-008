@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/FlowNodeItem.qml</file>
+        <file>qml/ToolBox.qml</file>
+        <file>qml/PropertyPanel.qml</file>
+        <file>qml/FlowCanvas.qml</file>
+    </qresource>
+</RCC>
